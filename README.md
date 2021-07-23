@@ -1,6 +1,6 @@
 
 - 👋 Hi, I’m @jdavid2019
-- 👀 I’m interested in php projects
+- 👀 I’m interested in php projects and mobile apps projects in android
 - 🌱 I’m currently learning about IA
 - 💞️ I’m looking to collaborate on differents projects using Laravel and Vuejs.
 - 📫 How to reach me: I like learning new technologies and my dream is to be a senior backend developer.
