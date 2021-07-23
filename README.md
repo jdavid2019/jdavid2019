@@ -6,8 +6,7 @@
 - 📫 How to reach me: I like learning new technologies and my dream is to be a senior backend developer.
 -  👀 Nowadays, I'm learning to program apps in Flutter 
 
-![laravel-logo](https://user-images.githubusercontent.com/54923488/126729349-cdbf51c2-61db-4360-8f46-e16efc4cd96e.png)
-
+![laravel-featured](https://user-images.githubusercontent.com/54923488/126729403-dba81255-006f-4626-9b32-7195c1a73b8e.png)
 
 ![452-4529223_vue-js-logo-png-transparent-png](https://user-images.githubusercontent.com/54923488/126728958-0c418610-2bdf-42b2-baff-6421cee1cb2f.png)
 
