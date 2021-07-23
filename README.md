@@ -13,7 +13,9 @@
 
 ![android](https://user-images.githubusercontent.com/54923488/126729106-ed14f29f-b60b-4403-baa1-cd522c1246cf.png)
 
-![Google-flutter-logo (1)](https://user-images.githubusercontent.com/54923488/126728918-fef8c549-d005-4ee7-9d9c-e4d875a834a2.png)
+
+![Google-flutter-logo](https://user-images.githubusercontent.com/54923488/126729158-01843488-88dc-413d-bd09-7ea81624bc13.png)
+
 
 
 <!---
